@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Chef's Special",
+    "imageSrc": "projects/projectA.jpeg",
+    "description": "The website serves as a platform that promoting healthy diet, and encorage individuals to make imformed choices about their nutrition",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "",
+    "source": "/"
+  },
+  {
+    "title": "PlantFashion",
+    "imageSrc": "projects/projectE.jpeg",
+    "description": "This website serves as an innovative platform that encourages individuals to infuse their living spaces with the elegance of plants.",
+    "skills": ["C#", "SQL", "Node", "Sass"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Pancakes Lover",
+    "imageSrc": "projects/projectD.jpeg",
+    "description": "This website serves as a hub for pancake enthusiasts, offering a delightful collection of mouthwatering pancake recipes.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "",
+    "source": ""
+  }
+]

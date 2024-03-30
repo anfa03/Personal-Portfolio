@@ -1,0 +1,10 @@
+@import "./Vars.css";
+.Home{
+    
+    background-color: var(--color-bg);
+    width: 100%;
+    height: 100%;
+    font-family: var(--font-Poppins);
+    overflow: hidden;
+    
+}

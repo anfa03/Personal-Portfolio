@@ -1,0 +1,30 @@
+[
+  {
+    "id":"1",
+    "title": "Front-end",
+    "imageSrc": "skills/fontend.png",
+    "descrption":"my expertise in HTML5, CSS3, and JavaScript goes beyond mere familiarity. With a keen eye for detail and a commitment to delivering high-quality web solutions, I possess the necessary skills to create visually appealing, user-friendly, and interactive websites while adhering to industry standards and best practices"
+  },
+  {
+    "id":"2",
+    "title": "Back-end",
+    "imageSrc": "skills/backend.png",
+    "descrption":"I also have proficiency in back-end development, specifically in Java, C#, and Python. With a focus on building robust and scalable server-side solutions, I have experience in Sql and Oracle. By leveraging my front-end and back-end skills together, I am able to develop end-to-end web applications that deliver seamless user experiences"
+
+  },
+  {
+    "id":"3",
+    "title": "OOP",
+    "imageSrc": "skills/oop.png",
+    "descrption":"I have a solid understanding of Object-Oriented Programming (OOP) principles and practices. With proficiency in Java, C#, or Python, I employ encapsulation, inheritance, and polymorphism to design modular and maintainable code. By leveraging the power of OOP, I create robust software architectures and reusable components that promote code reusability, scalability, and extensibility"
+
+  },
+  {    
+    "id":"4",
+    "title": "Graphic Design",
+    "imageSrc": "skills/graphicdesing.png",
+    "descrption":"I also have some experience with graphic design tools such as Photoshop and Illustrator. I can utilize these tools to create basic graphics, edit images, and make necessary adjustments to enhance the visual aspects of Pictures. This understanding of graphic design principles allows me to collaborate effectively with designers and contribute to the overall aesthetics of the websites I develop"
+
+  }
+
+]
