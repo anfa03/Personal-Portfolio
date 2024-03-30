@@ -30,7 +30,7 @@ Once the dependencies are installed, you can start the portfolio website by runn
 
 npm run dev
 
-This command will start a local development server and open the portfolio in your default browser. If the browser does not open automatically, you can access the portfolio by navigating to `http://localhost:3000` in your browser.
+This command will start a local development server and open the portfolio in your default browser. If the browser does not open automatically, you can access the portfolio by navigating to `http://localhost:5173/` in your browser.
 
 ## Challenges Faced and Solutions
 During the development of my portfolio website, I encountered a few challenges. Here are some of them and how I overcame them:
